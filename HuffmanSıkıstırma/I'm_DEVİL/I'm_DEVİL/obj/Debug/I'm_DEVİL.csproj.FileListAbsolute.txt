@@ -1,0 +1,10 @@
+C:\Users\kerem\Desktop\I'm_Devil\I'm_DEVİL\I'm_DEVİL\bin\Debug\I'm_DEVİL.exe.config
+C:\Users\kerem\Desktop\I'm_Devil\I'm_DEVİL\I'm_DEVİL\bin\Debug\I'm_DEVİL.exe
+C:\Users\kerem\Desktop\I'm_Devil\I'm_DEVİL\I'm_DEVİL\bin\Debug\I'm_DEVİL.pdb
+C:\Users\kerem\Desktop\I'm_Devil\I'm_DEVİL\I'm_DEVİL\obj\Debug\I'm_DEVİL.csproj.AssemblyReference.cache
+C:\Users\kerem\Desktop\I'm_Devil\I'm_DEVİL\I'm_DEVİL\obj\Debug\I_m_DEVİL.Form1.resources
+C:\Users\kerem\Desktop\I'm_Devil\I'm_DEVİL\I'm_DEVİL\obj\Debug\I_m_DEVİL.Properties.Resources.resources
+C:\Users\kerem\Desktop\I'm_Devil\I'm_DEVİL\I'm_DEVİL\obj\Debug\I'm_DEVİL.csproj.GenerateResource.cache
+C:\Users\kerem\Desktop\I'm_Devil\I'm_DEVİL\I'm_DEVİL\obj\Debug\I'm_DEVİL.csproj.CoreCompileInputs.cache
+C:\Users\kerem\Desktop\I'm_Devil\I'm_DEVİL\I'm_DEVİL\obj\Debug\I'm_DEVİL.exe
+C:\Users\kerem\Desktop\I'm_Devil\I'm_DEVİL\I'm_DEVİL\obj\Debug\I'm_DEVİL.pdb
