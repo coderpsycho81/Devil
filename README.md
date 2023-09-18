@@ -1,3 +1,4 @@
+# Explanation
 Hello friends, let me briefly introduce my project called "Devil." This project is used to hide the selected file. When you hide the file, it will reappear as a different file named AKB.bztpe, and the size of the file will also decrease. As a result, when you delete the selected file, you won't be able to open the AKB.bztpe file because you won't be able to see its contents. To view the content, you'll need to use my program to select and extract the AKB.bztpe file. 
 Good uses. By _coderpsycho
 
